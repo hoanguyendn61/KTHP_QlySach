@@ -1,0 +1,16 @@
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\DataTransferObject\bin\Debug\DataTransferObject.dll
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\DataTransferObject\bin\Debug\DataTransferObject.pdb
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\DataTransferObject\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\DataTransferObject\obj\Debug\DataTransferObject.csprojAssemblyReference.cache
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\DataTransferObject\obj\Debug\DataTransferObject.csproj.CoreCompileInputs.cache
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\DataTransferObject\obj\Debug\DataTransferObject.csproj.CopyComplete
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\DataTransferObject\obj\Debug\DataTransferObject.dll
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\DataTransferObject\obj\Debug\DataTransferObject.pdb
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\QlySachEF_CF\DataTransferObject\bin\Debug\DataTransferObject.dll
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\QlySachEF_CF\DataTransferObject\bin\Debug\DataTransferObject.pdb
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\QlySachEF_CF\DataTransferObject\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\QlySachEF_CF\DataTransferObject\obj\Debug\DataTransferObject.csprojAssemblyReference.cache
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\QlySachEF_CF\DataTransferObject\obj\Debug\DataTransferObject.csproj.CoreCompileInputs.cache
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\QlySachEF_CF\DataTransferObject\obj\Debug\DataTransferObject.csproj.CopyComplete
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\QlySachEF_CF\DataTransferObject\obj\Debug\DataTransferObject.dll
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\QlySachEF_CF\DataTransferObject\obj\Debug\DataTransferObject.pdb
